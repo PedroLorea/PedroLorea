@@ -4,7 +4,7 @@
 
 [![Pedro GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLorea&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Linguagens e Frameworks que eu uso
+### Linguagens e Frameworks que eu desenvolvo
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -15,7 +15,7 @@
 </div><br/>
 
 
-### Tecnologias que eu uso
+### Tecnologias que eu utilizo
   <div style="display: inline_block"><br/>
     <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img align="center" alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
