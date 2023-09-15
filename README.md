@@ -1,6 +1,5 @@
 ### Dale! Bem-vindo ao meu perfil 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lorea-707944247/)
 
 [![Pedro GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLorea&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
